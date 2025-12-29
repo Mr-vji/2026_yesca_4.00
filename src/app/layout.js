@@ -20,7 +20,6 @@ export const metadata = {
   description: "Yesca Technologies",
   icons: {
     icon: "/sitelogo/siteicon.svg",
-    apple: "/sitelogo/siteicon.svg",
   },
 };
 
