@@ -18,9 +18,6 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Yesca Technologies",
   description: "Yesca Technologies",
-  icons: {
-    icon: "/sitelogo/siteicon.svg",
-  },
 };
 
 export default function RootLayout({ children }) {
